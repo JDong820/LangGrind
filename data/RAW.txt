@@ -1,0 +1,353 @@
+Chapter 8 - main text
+    세; three
+    식당; a restaurant
+    -에; at (locative particle)
+    -에 있다; someone or something is located in
+    남자; man
+    한; one
+    명; person (number classifier)
+    -와/과; and (conjunctive particle)
+    여자; woman
+    두; two
+    있다; to exist, to have
+    식탁; dining table
+    위; above, over
+    그릇; bowl
+    반찬; side dish (served with rice)
+    -도; too, also (additive particle)
+    많이; much, many
+    과일; fruit
+    그런데; by the way
+    수저; spoon and chopsticks
+
+Chapter 8 - aux vocab
+    교실; classroom
+    학생; student
+    방; room
+    책상; desk
+    의자; chair
+    가방; bag, purse, suitcase
+    노트; notebook
+    개; dog
+    고양이; cat
+    볼펜; ballpoint pen
+    코; nose
+    키가 작다; to be short in stature
+    좀; a little, rather
+    우산; umbrella
+    배; pear
+    맥주; beer
+    버스정류장; bus stop
+    사탕; candy
+    교문; school gate
+    가게; shop
+    서점; bookstore
+    문방구; stationery shop
+    근처; surroundings
+    우리; we, our
+    하숙집; boarding house
+    이발소; barber shop
+    구두; dress shoes
+    담배; cigarettes
+    탁자; table
+    전화; telephone
+    소파; sofa
+    책장; bookshelf
+    안경; glasses
+    좋아하다; to like, to have a liking for
+
+Chapter 9 - main text
+    아녕하세요; How are you?
+    -은/는; topic particle
+    -이다; to be (copula)
+    독일; Germany
+    -에서; from
+    -았습니다/었습니다/였습니다; the past for of declarative sentance ending -ㅂ니다/습니다
+    -의; possessive particle
+    고향; one's native place, hometown
+    함부르크; Hamburg
+    나이; age
+    살; age (classifier)
+    가족; family
+    모두; all, everybody, everything
+    몇; how many
+    아버지; father
+    여동생; younger sister
+    지금; now
+    -와/과 같이; with someone
+    한국; Korea
+
+Chapter 9 - aux vocab
+    한국사람; Korean person
+    서울; Seoul
+    월요일; Monday
+    미국; America
+    서다; to stand up
+    앉다; to sit down
+    좋다; to like, (be) good, fine, nice
+    높다; (be) high
+    웃다; to laugh, smile
+    재미있다; (be) interesting
+    맛있다; (be) tasty, delicious
+    청소하다; to clean
+    깨끗하다; (be) clear, clean
+    조용하다; (be) quiet, silent
+    어디; where
+    부산; Pusan
+    시계; watch
+    작다; (be) small, tiny
+    생일; birthday
+    크다; (be) large, (be) big
+    신문; newspaper
+    어제; yesterday
+    무척; very, highly
+    일요일; Sunday
+    산; mountain
+    춥다; (be, feel) cold
+    버스; 버스
+    타다; to take a ride in (a car)
+    불고기; bulgogi
+    작년; last year
+    집; house, home
+    그저께; the day before yesterday
+    하루종일; all day long
+    일하다; to work
+    일본; Japan
+    공항; airport
+
+Chapter 10 - main text
+    백화점; department store
+    -에 가다; to go to (destination)
+    -에서; in (locative particle)
+    그리고; and
+    누구; who
+    -에; at (time particle)
+
+Chapter 10 - aux vocab
+    은행; bank
+    우체국; post office
+    시장; market
+    화장실; rest room
+    부엌; kitchen
+    씻다; wash
+    목욕탕; bath room
+    손; hands
+    노래(를) 부르다; to sing a song, sing
+    춤(을) 추다; to dance a dance, dance
+    세수(를) 하다; to wash one's face
+    한국어; Korean language
+    배우다; to learn
+    누가; who
+    찾다; to look for, seek for
+    제일; yesterday
+    읽다; to read
+    -들; suffix for plural noun
+    분; minute
+    반; half
+    산; mountain
+    수업; classwork
+    병원; hospital
+    모레; the day after tomorrow
+    언제; when
+    시험; examination, test
+    엘레베이터; elevator
+    대사관; embassy
+    쓰다; to write
+    숙제(를) 하다; to do homework
+    아침밥; breakfast
+    보내다; to send
+    친척; relative
+    구경(을) 하다; to sightsee
+    오후; afternoon
+    술; alcoholic drink, liquor
+    먼저; first, first of all
+
+Chapter 12 - main text
+    저기; over there, that place
+    옆집; (the) next door, the adjacent house
+    살다; to live
+    -고 있다; present progressive form indicator
+    오래간만입니다; It has been a long time since we met.
+    이; this
+    자주; frequently, often
+    가끔; from time to time, once in a while
+    요즘; (in ) these days, nowadays
+    열심히; eagerly, enthusiastically
+    아주; quite, very (much)
+    어렵다; (be) difficult, (be) hard
+    그렇지만; but
+    대학생; a university student
+    -이/가 아니다; the negative form of -이다
+    대학원생; a graduate school student
+
+Chapter 12 - aux vocab
+    배; stomach
+    머리; the head
+    잘하다; to do well, to do skillfully
+    라디오; radio
+    기다리다; to wait for, to await
+    손수건; handkerchief
+    내; my (possessive form of I)
+    그러나; but
+    바다; the sea, the ocean
+    담배를 피우다; to smake
+    중국사람; Chinese person
+    토요일; Saturday
+    운동화; sports shoes
+    넥타이; necktie
+    알래스카; Alaska
+    짧다; (be) short
+    장미꽃; rose
+    아내; wife
+    선물; present, gift
+    다른; different
+    사진; photograph, picture
+    버스표; but token
+    카메라; camera
+    우표; (postage) stamp
+    곰인형; a bear doll
+    봄; spring
+    달; month
+    여름; summer
+    그림; picture, painting
+
+Chapter 13 - main text
+    아침; morning
+    일어나다; to get up
+    -고; and
+    -쯤; about
+    -(으)러; in order to (verb suffix)
+    -부터; from
+    -까지; to
+    빨리; soon, in a hurry
+    -고 싶다; would like to (verb suffix)
+    그래서; therefore
+    -게; adverbial ending
+    보통; ordinarily, usually
+    저녁; evening
+    밤; night
+    부모님; parents
+    -에게; to (a person or animal)
+
+Chapter 13 - aux vocab
+    똑똑하다; (be) clever, smart
+    빨래(를) 하다; to wash clothes, to do laundry
+    클래식음악; classical music
+    팝송; popular songs
+    극장; a theatre
+    들어가다; to enter, to go into
+    갈아입다; to change (clothes)
+    전화(를) 걸다; to make a phone call
+    나가다; to go out
+    다니다; to come and go, attend
+    며칠; what date
+    여름방학; summer vacation
+    연극; drama, dramatic performance
+    배가 고프다; (be) hungry
+    피곤하다; (be) tired
+    마르다; (be) thirsty
+    그립다; (be) missed, (be) longed for
+    택시; a taxi
+    약; medicine, drug
+    심하다; (be) severe, excessive
+    멋있다; (be) wonderful, stylish
+    주다; to give
+    남편; husband
+    강아지; a puppy, a little dog
+    새; bird
+    닦다; to brush (one's teeth)
+    쉬다; to take a rest
+    기타(를) 치다; to play the guitar
+    꽃집; flower shop
+    미장원; beauty shop
+    약국; drugstore, pharmacy
+    제주도; Cheju Island
+    가지다; to have
+    머리를 감다; to wash one's hair
+    화장(을) 하다; to make oneself up
+    머리를 빗다; to comb one's hair
+    차; tea
+
+Chapter 14 - main text
+    늦다; to get late
+    -아/어서; so, and then (connective suffix)
+    마안하다; (be) sorry
+    알림; notice, alert
+    -(으)로; to
+    -(으)십시오; imperative ending
+    -지 마십시오; negative form of imperative ending -(으)십시오
+    날; day
+    들어오다; to come into, enter
+    저쪽; that side
+    자리; a seat
+    결석; absence
+    감기에 걸리다; to get cold, take cold
+    못; can not (verb prefix)
+    그렇습니까?; Are you sure?
+    여러분; everybody, all of you
+    조심하다; to take care
+    그럼; if that is the case then
+    시작하다; to begin, to start
+    -겠-; intentional infix (speaker's future volition)
+
+Chapter 14 - aux vocab
+    안녕히 계십시오; Good-bye!
+    여보세요; Hello!
+    말씀하시다; to talk, to speak (honorific)
+    조용히; quietly, calmly
+    떠들다; to make noise
+    너무; too (much)
+    배가 부르다; to be full
+    아프다; to haev a pain, (be) sick
+    오랫동안; for a long time
+    오래; long
+    오래간만에; after a long separation (interval)
+    이번; this time
+    놀러가다; to go on a pleasure trip
+    지하철역; subway station
+    이리; here
+    수영; swimming
+    올라가다; to climb (up), to go up
+    신다; to wear, put (shoes) on
+    눈; eye
+    야구; baseball
+    회사; company
+    길이 막히다; the road is blocked, traffic is jammed
+    일찍; early
+    도착하다; to arrive
+    일; work
+    힘들다; to be hard, be arduous
+    돌아가다; to go back, return
+    말씀 좀 묻겠습니다; May I ask you a question?
+    고려대학교; Korea University
+    걸어가다; to walk, to go on foot
+    민족문화연구소; Korean Cultural Research Center
+    계속; continually
+    박물관; museum
+    화요일; Tuesday
+    포도; grapes
+    뚱뚱하다; (be) fat
+    곧; soon
+    후; after
+    다시; again
+
+Chapter 16 - main text
+    늦잠을 자다; to sleep late in teh morning, to get up late
+    -이; suffix for persons name which ends in a consonant
+    연극배우; drama actor
+    공연; performance
+    -기때문에; because
+    연습; practice, drill, rehearse a play
+    -는데; connective sufix
+    -에게서; from (some person)
+    주일; week
+    동안; while, during
+    화가 나다; to get angry
+    다음; next
+    -기로 하다; decide to do, make up one's mind to do, promise to do
+    급히; hastily
+    약속; promise
+    장소; place
+
+Chapter 16 - aux vocab
+    

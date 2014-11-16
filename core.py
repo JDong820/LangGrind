@@ -58,6 +58,9 @@ def input_vocab():
     # Hardcoding particle handling
     if word[0] == "-" and "particle" in ' '.join(definitions):
         term_category = "particle"
+    # Dangerous
+    if "classifier" in ' '.join(definitions):
+        term_category = "classifier"
     return {'term': word, 'data': {'definitions': [definitions],
                                    'metadata': {'chapter': chapter,
                                                 'type': term_category}}}
@@ -125,7 +128,7 @@ def test_kor(term_filter=lambda a, b: True):
     """Test vocab using tags, querying keys."""
     vocab = fetch_vocab()
     terms = {term: data['data']['definitions'] for term, data in vocab.items()\
-             if term_filter(term, data)}
+             if term_filter(term, data['data'])}
     if not terms:
         return 0,0,0
     max_score = len(terms)
@@ -155,11 +158,14 @@ def do_test(test_function):
     # Generate useful feedback
     start_time = time.time()
 
-    misses, score, max_score = test_function()
+    misses, score, max_score =\
+            test_function(term_filter=lambda vocab, data:
+                (vocab[0] != "-") and (data['metadata']['chapter'] == "17"))
 
     time_spent = int(time.time() - start_time)
-    time_spent = (int(time_spent/60), time_spent%60)
-    print("Spent %d minutes, %d seconds." % time_spent)
+    assert max_score != 0
+    time_spent = (int(time_spent/60), time_spent%60, int(time_spent/max_score))
+    print("Spent %d minutes, %d seconds. (avg. %ds per term)" % time_spent)
 
     for miss in misses:
         print("MISSED: {0}".format(miss))
