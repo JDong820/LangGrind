@@ -87,7 +87,7 @@ raw txt format:
 
 txt to json format:
 
-   [
+    [
      {
        "class": [],
        "definitions": [
@@ -103,3 +103,4 @@ txt to json format:
      .
      .
    ]
+
