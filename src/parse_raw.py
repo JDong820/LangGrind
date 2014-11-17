@@ -1,8 +1,7 @@
 """Parse human data into JSON"""
 import string
-from pprint import pprint
 
-def parse_file(filename="RAW.txt"):
+def parse_file(filename="../data/RAW.txt"):
     """Parse human readable file into JSON."""
 
     entries = []
@@ -24,8 +23,7 @@ def parse_file(filename="RAW.txt"):
                     continue
                 entry = data.copy()
                 term, definition = next_line.split(";")
-                print("'{}'".format(next_line))
-                exit()
+                #print("'{}'".format(next_line))
 
                 entry['term'] = term.strip()
                 entry['definitions'] = [_.strip() for\

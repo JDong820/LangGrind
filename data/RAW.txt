@@ -332,7 +332,7 @@ Chapter 14 - aux vocab
     다시; again
 
 Chapter 16 - main text
-    늦잠을 자다; to sleep late in teh morning, to get up late
+    늦잠을 자다; to sleep late in the morning, to get up late
     -이; suffix for persons name which ends in a consonant
     연극배우; drama actor
     공연; performance
@@ -350,4 +350,160 @@ Chapter 16 - main text
     장소; place
 
 Chapter 16 - aux vocab
-    
+    지각하다; (be) late, to come late
+    벨; bell
+    소리; sound
+    들리다; to be heard, to be audible
+    찾아오다; to call on, to call at, to visit
+    갑자기; suddenly
+    가져오다; to bring
+    -한테서; from
+    슬프다; (be) sad, sorrowful
+    팔; an arm
+    담배를 끊다; to quit smoking
+    내리다; to take off
+    뛰어가다; to run dash
+    금방; just now, a moment ago
+    정말; really
+    운이 좋다; be lucky, have good luck
+    만화; a cartoon, a comic book
+    동대문역; Tangdaemun station
+    공원; park
+    산책(을) 하다; to take a walk
+    마음에 들다; be satisfactory, be to one's liking
+    인사(를) 하다; to greet, say hello
+    여러가지; various kinds of, all sorts of
+    어느 날; some day, one day
+    싸우다; to fight, (have a) quarrel
+    헤어지다; to separate
+    힘(이) 없다; be in low spirits, to have little energy
+    기쁘다; (be) glad, happy
+    왜; why
+    그렇게; like that, so, in that way
+    울다; to cry
+    얼굴; face
+    마음; heart (spiritual), (the) mind
+    불편하다; to be uncomfortable, feel ill
+    결혼하다; to marry, to get married to
+    아직도; not yet, still, even now
+    마지막; the last, the end
+    인천; Incheon
+    여행하다; to make a trip, to travel
+
+Chapter 17 - main text
+    -아/어서; connective suffix
+    첫날; the first day, the opening day, the premiere
+    -이었습니다/였습니다; the past form of noun + 입니다
+    잔뜩; intently
+    멋을 부리다; to spruce up
+    나서다; to leave, to get out of
+    대학로; Taehangno (street)
+    소극장; a small theatre
+    뫠; fairly, quite, pretty
+    멀다; (be) far, (be) distant
+    전; before, prior to
+    -기 전에; before doing (something)
+    다발; a bundle, a bunch
+    프로그램; program
+    -(으)면서; while, as (ending for progressing action or the actions which take place at the sometime)
+    -고 나서; after (do something or happen something)
+    끝나다; to be over, to come to an end
+    무대; the stage
+    기뻐하다; to be pleased
+
+Chapter 17 - aux vocab
+    일기; a diary
+    예습; preparation of lessons
+    손님; guest
+    알다; to know, to be familiar with
+    길다; (be) long
+    놀다; to play
+    달다; (be) sweet, sugary
+    팔다; to sell
+    만들다; to make
+    졸다; to nap, to doze, to drowse
+    들다; to lift(up), to hold, to take
+    안암동; Anam-dong (a neighborhood in Seoul)
+    아이; child, youngster
+    마당; a yard, a courtyard
+    어떻습니까?; how about
+    전화를 받다; to get a phone call
+    메모(를) 하다; to take a memo, take notes
+    다; all
+    돈을 벌다; to make money
+    회사원; a company employee
+    낮; day time
+    저녁(밥); dinner
+    사전; dictionary
+    바로; just, exactly
+    기숙사; dormitory
+    설탕; sugar
+    넣다; to put in
+    가수; singer
+    끓이다; to boil
+    혼자; alone, by oneself
+
+Chapter 18 - main text
+    그리다; to draw
+    -는 것; the action which, the thing which
+    주말; weekend
+    시골; the country, rural area
+    풍경; scenery, a landscape
+    교외; the outskirts, the suberbs
+    서울역; Seoul Station
+    기차; train
+    창; window
+    -(으)ㄴ; noun modifier ending
+    흔들다; to shake
+    푸르다; (be) blue
+    하늘; the sky
+    맑다; (be) clear
+    공기; air
+    시원하다; (be) refreshing, fresh
+    바람; the wind
+    상쾌하다; (be) crisp, invigorating
+    들; a field
+    -는; noun modifier ending
+    -기 시작하다; to begin to
+    농부; farmer
+    소; cow, ox
+    -(으)면; if (conditional ending)
+    또; again
+
+Chapter 18 - aux vocab
+    소설; novel
+    노래(를) 하다; to sing a song, to sing
+    쉽다; (be) easy
+    뜨겁다; (be) hot
+    차갑다; (be) cold
+    가깝다; (be) near
+    무겁다; (be) heavy
+    가볍다; (be) light
+    맵다; (be) hot, (be) spicy
+    싱겁다; (be) bland
+    돕다; to help
+    곱다; (be) prety
+    물; water
+    싫어하다; to dislike
+    언제나; whenever, always
+    남족; south
+    곷이 피다; to bloom (flowers)
+    창문; window
+    열다; to open
+    특히; especially
+    귀엽다; (be) cute, (be) charming
+    심부름을 시키다; to make a person do an errand
+    더럽다; (be) dirty
+    이사가다; to move, to change one's residence
+    빵집; bakery
+    불꽃놀이; a fireworks display
+    소금; salt
+    김치; Kimchi
+    어떻게; how
+    지내다; to spend one's time, to get along
+    경복궁; Kyeongbok Palace
+    닫다; to close
+    홈; flaw, speck, crack
+    위험하다; (be) dangerous
+    밀다; to push
+    문; door
