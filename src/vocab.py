@@ -20,23 +20,58 @@ def save_json(data, filepath=SAVEPATH+SAVEFILE):
         fptr.write(json.dumps(data, sort_keys=True, indent=2,
                               separators=(',', ': ')))
 
-def word_merge(old_data, new_data):
-    """Returns a merged version of the old and new data."""
-    merge_data = []
-    if new_data['definitions'][0] in old_data['definitions']:
-        # New metadata overwrites old metadata always.
-        merge_data = new_data
-    else:
-        do_merge = input("Adding to existing definitions {0}? "
-                         "[Y/n] ".format(str(old_data['definitions'])))
-        if do_merge == "y" or not do_merge:
-            merge_data = new_data
-            merge_data.update({'definitions': new_data['definitions'] +\
-                                              old_data['definitions']})
+def merge_definitions(arr1, arr2):
+    return arr1 + arr2
+
+def merge_entry(new_data, vocabulary):
+    """Merges new_data into vocabulary."""
+    keys = new_data.keys()
+    for key in keys:
+        if key not in vocabulary.keys():
+            vocabulary[key] = new_data[key]
         else:
-            merge_data = old_data
-    return merge_data
+            old_entry = vocabulary[key]
+            # Merge definitions.
+            old_entry['data']['definitions'] =\
+                    merge_definitions(old_entry['data']['definitions'],
+                                      new_data[key]['data']['definitions'])
+            # Always overwrite old metadata.
+            old_entry['data']['metadata'] = new_data[key]['data']['metadata']
+            # Update vocabulary
+            vocabulary[key] = old_entry
 
 def vocab_to_json(file_in="../data/RAW.txt", file_out="../data/raw.json"):
     """Parse raw data into json."""
     save_json(parse_raw.parse_file(file_in), filepath=file_out)
+
+def merge_from_array(file_in, vocab_out=SAVEPATH+SAVEFILE):
+    """Merge elements from a JSON array at file_in into a vocabulary at
+    file_out.
+    """
+    from pprint import pprint
+    vocabulary = fetch_json(vocab_out)
+    print("Merging from {}.".format(file_in))
+    for entry in fetch_json(file_in):
+        key = entry['term']
+        chapter = entry['section']['chapter']
+        section = entry['section']['part']
+        definitions = entry['definitions']
+        grammar_classes = entry['class']
+        vocab_entry = {
+            key: {
+                "data": {
+                    "definitions": [definitions],
+                    "metadata": {
+                        "chapter": chapter,
+                        "section": section,
+                        "classes": grammar_classes,
+                    }
+                }
+            }
+        }
+        merge_entry(vocab_entry, vocabulary)
+    save_json(vocabulary)
+
+if __name__ == "__main__":
+    vocab_to_json()
+    merge_from_array("../data/raw.json")

@@ -1,9 +1,10 @@
 """Test Vocab for UT
 """
-import core
+import vocab
+
+VOCAB = vocab.fetch_json()
 
 if __name__ == "__main__":
-    VOCAB = core.fetch_vocab()
     while True:
         #tags = input("EN->KO: ")
         #tags = re.split(r'\s*,+\s*', tags)

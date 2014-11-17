@@ -1,0 +1,5779 @@
+[
+  {
+    "class": [],
+    "definitions": [
+      "three"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc138"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a restaurant"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc2dd\ub2f9"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "at (locative particle)"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "-\uc5d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "someone or something is located in"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "-\uc5d0 \uc788\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "man"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\ub0a8\uc790"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "one"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\ud55c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "person (number classifier)"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uba85"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "and (conjunctive particle)"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "-\uc640/\uacfc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "woman"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc5ec\uc790"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "two"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\ub450"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to exist",
+      "to have"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc788\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "dining table"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc2dd\ud0c1"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "above",
+      "over"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc704"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bowl"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uadf8\ub987"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "side dish (served with rice)"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\ubc18\ucc2c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "too",
+      "also (additive particle)"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "-\ub3c4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "much",
+      "many"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\ub9ce\uc774"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "fruit"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uacfc\uc77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "by the way"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uadf8\ub7f0\ub370"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "spoon and chopsticks"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "text"
+    },
+    "term": "\uc218\uc800"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "classroom"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uad50\uc2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "student"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ud559\uc0dd"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "room"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ubc29"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "desk"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ucc45\uc0c1"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "chair"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc758\uc790"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bag",
+      "purse",
+      "suitcase"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uac00\ubc29"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "notebook"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ub178\ud2b8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "dog"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uac1c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "cat"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uace0\uc591\uc774"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "ballpoint pen"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ubcfc\ud39c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "nose"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ucf54"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to be short in stature"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ud0a4\uac00 \uc791\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a little",
+      "rather"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc880"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "umbrella"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc6b0\uc0b0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "pear"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ubc30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "beer"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ub9e5\uc8fc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bus stop"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ubc84\uc2a4\uc815\ub958\uc7a5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "candy"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc0ac\ud0d5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "school gate"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uad50\ubb38"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "shop"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uac00\uac8c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bookstore"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc11c\uc810"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "stationery shop"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ubb38\ubc29\uad6c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "surroundings"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uadfc\ucc98"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "we",
+      "our"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc6b0\ub9ac"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "boarding house"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ud558\uc219\uc9d1"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "barber shop"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc774\ubc1c\uc18c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "dress shoes"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uad6c\ub450"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "cigarettes"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ub2f4\ubc30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "table"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ud0c1\uc790"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "telephone"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc804\ud654"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "sofa"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc18c\ud30c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bookshelf"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\ucc45\uc7a5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "glasses"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc548\uacbd"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to like",
+      "to have a liking for"
+    ],
+    "section": {
+      "chapter": 8,
+      "part": "vocab"
+    },
+    "term": "\uc88b\uc544\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "phrase"
+    ],
+    "definitions": [
+      "How are you?"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uc544\ub155\ud558\uc138\uc694"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "topic particle"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "-\uc740/\ub294"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to be (copula)"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "-\uc774\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Germany"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\ub3c5\uc77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "from"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "-\uc5d0\uc11c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the past for of declarative sentance ending -\u3142\ub2c8\ub2e4/\uc2b5\ub2c8\ub2e4"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "-\uc558\uc2b5\ub2c8\ub2e4/\uc5c8\uc2b5\ub2c8\ub2e4/\uc600\uc2b5\ub2c8\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "possessive particle"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "-\uc758"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "one's native place",
+      "hometown"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uace0\ud5a5"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Hamburg"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\ud568\ubd80\ub974\ud06c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "age"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\ub098\uc774"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "age (classifier)"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uc0b4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "family"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uac00\uc871"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "all",
+      "everybody",
+      "everything"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\ubaa8\ub450"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "how many"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uba87"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "father"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uc544\ubc84\uc9c0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "younger sister"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uc5ec\ub3d9\uc0dd"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "now"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\uc9c0\uae08"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "with someone"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "-\uc640/\uacfc \uac19\uc774"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Korea"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "text"
+    },
+    "term": "\ud55c\uad6d"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Korean person"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ud55c\uad6d\uc0ac\ub78c"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Seoul"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc11c\uc6b8"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Monday"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc6d4\uc694\uc77c"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "America"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ubbf8\uad6d"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to stand up"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc11c\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to sit down"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc549\ub2e4"
+  },
+  {
+    "class": [
+      "adjective",
+      "verb"
+    ],
+    "definitions": [
+      "to like",
+      "(be) good",
+      "fine",
+      "nice"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc88b\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) high"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ub192\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to laugh",
+      "smile"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc6c3\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) interesting"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc7ac\ubbf8\uc788\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) tasty",
+      "delicious"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ub9db\uc788\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to clean"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uccad\uc18c\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) clear",
+      "clean"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uae68\ub057\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) quiet",
+      "silent"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc870\uc6a9\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "where"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\ub514"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Pusan"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ubd80\uc0b0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "watch"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc2dc\uacc4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) small",
+      "tiny"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc791\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "birthday"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc0dd\uc77c"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) large",
+      "(be) big"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ud06c\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "newspaper"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc2e0\ubb38"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "yesterday"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\uc81c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "very",
+      "highly"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ubb34\ucc99"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Sunday"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc77c\uc694\uc77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "mountain"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc0b0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "(be",
+      "feel) cold"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ucda5\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "\ubc84\uc2a4"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ubc84\uc2a4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take a ride in (a car)"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ud0c0\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bulgogi"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ubd88\uace0\uae30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "last year"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc791\ub144"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "house",
+      "home"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc9d1"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the day before yesterday"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uadf8\uc800\uaed8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "all day long"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\ud558\ub8e8\uc885\uc77c"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to work"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc77c\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Japan"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uc77c\ubcf8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "airport"
+    ],
+    "section": {
+      "chapter": 9,
+      "part": "vocab"
+    },
+    "term": "\uacf5\ud56d"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "department store"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "text"
+    },
+    "term": "\ubc31\ud654\uc810"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to go to (destination)"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "text"
+    },
+    "term": "-\uc5d0 \uac00\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "in (locative particle)"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "text"
+    },
+    "term": "-\uc5d0\uc11c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "and"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "text"
+    },
+    "term": "\uadf8\ub9ac\uace0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "who"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "text"
+    },
+    "term": "\ub204\uad6c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "at (time particle)"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "text"
+    },
+    "term": "-\uc5d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bank"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc740\ud589"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "post office"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc6b0\uccb4\uad6d"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "market"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc2dc\uc7a5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "rest room"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ud654\uc7a5\uc2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "kitchen"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubd80\uc5cc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "wash"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc53b\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bath room"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubaa9\uc695\ud0d5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "hands"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc190"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to sing a song",
+      "sing"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ub178\ub798(\ub97c) \ubd80\ub974\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to dance a dance",
+      "dance"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ucda4(\uc744) \ucd94\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to wash one's face"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc138\uc218(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Korean language"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ud55c\uad6d\uc5b4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to learn"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubc30\uc6b0\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "who"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ub204\uac00"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to look for",
+      "seek for"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ucc3e\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "yesterday"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc81c\uc77c"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to read"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc77d\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "suffix for plural noun"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "-\ub4e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "minute"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubd84"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "half"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubc18"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "mountain"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc0b0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "classwork"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc218\uc5c5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "hospital"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubcd1\uc6d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the day after tomorrow"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubaa8\ub808"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "when"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc5b8\uc81c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "examination",
+      "test"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc2dc\ud5d8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "elevator"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc5d8\ub808\ubca0\uc774\ud130"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "embassy"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ub300\uc0ac\uad00"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to write"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc4f0\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to do homework"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc219\uc81c(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "breakfast"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc544\uce68\ubc25"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to send"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\ubcf4\ub0b4\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "relative"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uce5c\ucc99"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to sightsee"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uad6c\uacbd(\uc744) \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "afternoon"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc624\ud6c4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "alcoholic drink",
+      "liquor"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uc220"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "first",
+      "first of all"
+    ],
+    "section": {
+      "chapter": 10,
+      "part": "vocab"
+    },
+    "term": "\uba3c\uc800"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "over there",
+      "that place"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc800\uae30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "(the) next door",
+      "the adjacent house"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc606\uc9d1"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to live"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc0b4\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "present progressive form indicator"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "-\uace0 \uc788\ub2e4"
+  },
+  {
+    "class": [
+      "phrase"
+    ],
+    "definitions": [
+      "It has been a long time since we met."
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc624\ub798\uac04\ub9cc\uc785\ub2c8\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "this"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc774"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "frequently",
+      "often"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc790\uc8fc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "from time to time",
+      "once in a while"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uac00\ub054"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "(in ) these days",
+      "nowadays"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc694\uc998"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "eagerly",
+      "enthusiastically"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc5f4\uc2ec\ud788"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "quite",
+      "very (much)"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc544\uc8fc"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) difficult",
+      "(be) hard"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uc5b4\ub835\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "but"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\uadf8\ub807\uc9c0\ub9cc"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a university student"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\ub300\ud559\uc0dd"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the negative form of -\uc774\ub2e4"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "-\uc774/\uac00 \uc544\ub2c8\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a graduate school student"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "text"
+    },
+    "term": "\ub300\ud559\uc6d0\uc0dd"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "stomach"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ubc30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the head"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uba38\ub9ac"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to do well",
+      "to do skillfully"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc798\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "radio"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ub77c\ub514\uc624"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to wait for",
+      "to await"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uae30\ub2e4\ub9ac\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "handkerchief"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc190\uc218\uac74"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "my (possessive form of I)"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ub0b4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "but"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uadf8\ub7ec\ub098"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the sea",
+      "the ocean"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ubc14\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to smake"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ub2f4\ubc30\ub97c \ud53c\uc6b0\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Chinese person"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc911\uad6d\uc0ac\ub78c"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Saturday"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ud1a0\uc694\uc77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "sports shoes"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc6b4\ub3d9\ud654"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "necktie"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ub125\ud0c0\uc774"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Alaska"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc54c\ub798\uc2a4\uce74"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) short"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc9e7\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "rose"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc7a5\ubbf8\uaf43"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "wife"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc544\ub0b4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "present",
+      "gift"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc120\ubb3c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "different"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ub2e4\ub978"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "photograph",
+      "picture"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc0ac\uc9c4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "but token"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ubc84\uc2a4\ud45c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "camera"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uce74\uba54\ub77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "(postage) stamp"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc6b0\ud45c"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a bear doll"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uacf0\uc778\ud615"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "spring"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ubd04"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "month"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\ub2ec"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "summer"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uc5ec\ub984"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "picture",
+      "painting"
+    ],
+    "section": {
+      "chapter": 12,
+      "part": "vocab"
+    },
+    "term": "\uadf8\ub9bc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "morning"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\uc544\uce68"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to get up"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\uc77c\uc5b4\ub098\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "and"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\uace0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "about"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\ucbe4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "in order to (verb suffix)"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\ub7ec"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "from"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\ubd80\ud130"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\uae4c\uc9c0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "soon",
+      "in a hurry"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\ube68\ub9ac"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "would like to (verb suffix)"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\uace0 \uc2f6\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "therefore"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\uadf8\ub798\uc11c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "adverbial ending"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\uac8c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "ordinarily",
+      "usually"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\ubcf4\ud1b5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "evening"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\uc800\ub141"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "night"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\ubc24"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "parents"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "\ubd80\ubaa8\ub2d8"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to (a person or animal)"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "text"
+    },
+    "term": "-\uc5d0\uac8c"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) clever",
+      "smart"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub611\ub611\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to wash clothes",
+      "to do laundry"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ube68\ub798(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "classical music"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ud074\ub798\uc2dd\uc74c\uc545"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "popular songs"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ud31d\uc1a1"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a theatre"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uadf9\uc7a5"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to enter",
+      "to go into"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub4e4\uc5b4\uac00\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to change (clothes)"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uac08\uc544\uc785\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to make a phone call"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc804\ud654(\ub97c) \uac78\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to go out"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub098\uac00\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to come and go",
+      "attend"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub2e4\ub2c8\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "what date"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uba70\uce60"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "summer vacation"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc5ec\ub984\ubc29\ud559"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "drama",
+      "dramatic performance"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc5f0\uadf9"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) hungry"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ubc30\uac00 \uace0\ud504\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) tired"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ud53c\uace4\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) thirsty"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub9c8\ub974\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) missed",
+      "(be) longed for"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uadf8\ub9bd\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a taxi"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ud0dd\uc2dc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "medicine",
+      "drug"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc57d"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) severe",
+      "excessive"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc2ec\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) wonderful",
+      "stylish"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uba4b\uc788\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to give"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc8fc\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "husband"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub0a8\ud3b8"
+  },
+  {
+    "class": [
+      "noun",
+      "noun"
+    ],
+    "definitions": [
+      "a puppy",
+      "a little dog"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uac15\uc544\uc9c0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bird"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc0c8"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to brush (one's teeth)"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ub2e6\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take a rest"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc26c\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to play the guitar"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uae30\ud0c0(\ub97c) \uce58\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "flower shop"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uaf43\uc9d1"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "beauty shop"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ubbf8\uc7a5\uc6d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "drugstore",
+      "pharmacy"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc57d\uad6d"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Cheju Island"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uc81c\uc8fc\ub3c4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to have"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uac00\uc9c0\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to wash one's hair"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uba38\ub9ac\ub97c \uac10\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to make oneself up"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ud654\uc7a5(\uc744) \ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to comb one's hair"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\uba38\ub9ac\ub97c \ube57\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "tea"
+    ],
+    "section": {
+      "chapter": 13,
+      "part": "vocab"
+    },
+    "term": "\ucc28"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to get late"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\ub2a6\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "so",
+      "and then (connective suffix)"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "-\uc544/\uc5b4\uc11c"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) sorry"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\ub9c8\uc548\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "notice",
+      "alert"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uc54c\ub9bc"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\ub85c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "imperative ending"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\uc2ed\uc2dc\uc624"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "negative form of imperative ending -(\uc73c)\uc2ed\uc2dc\uc624"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "-\uc9c0 \ub9c8\uc2ed\uc2dc\uc624"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "day"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\ub0a0"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to come into",
+      "enter"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\ub4e4\uc5b4\uc624\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "that side"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uc800\ucabd"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a seat"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uc790\ub9ac"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "absence"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uacb0\uc11d"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to get cold",
+      "take cold"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uac10\uae30\uc5d0 \uac78\ub9ac\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "can not (verb prefix)"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\ubabb"
+  },
+  {
+    "class": [
+      "phrase"
+    ],
+    "definitions": [
+      "Are you sure?"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uadf8\ub807\uc2b5\ub2c8\uae4c?"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "everybody",
+      "all of you"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uc5ec\ub7ec\ubd84"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take care"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uc870\uc2ec\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "if that is the case then"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uadf8\ub7fc"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to begin",
+      "to start"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "\uc2dc\uc791\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "intentional infix (speaker's future volition)"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "text"
+    },
+    "term": "-\uaca0-"
+  },
+  {
+    "class": [
+      "phrase"
+    ],
+    "definitions": [
+      "Good-bye!"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc548\ub155\ud788 \uacc4\uc2ed\uc2dc\uc624"
+  },
+  {
+    "class": [
+      "phrase"
+    ],
+    "definitions": [
+      "Hello!"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc5ec\ubcf4\uc138\uc694"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to talk",
+      "to speak (honorific)"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub9d0\uc500\ud558\uc2dc\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "quietly",
+      "calmly"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc870\uc6a9\ud788"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to make noise"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub5a0\ub4e4\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "too (much)"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub108\ubb34"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to be full"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ubc30\uac00 \ubd80\ub974\ub2e4"
+  },
+  {
+    "class": [
+      "adjective",
+      "verb"
+    ],
+    "definitions": [
+      "to haev a pain",
+      "(be) sick"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc544\ud504\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "for a long time"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc624\ub7ab\ub3d9\uc548"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "long"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc624\ub798"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "after a long separation (interval)"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc624\ub798\uac04\ub9cc\uc5d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "this time"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc774\ubc88"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to go on a pleasure trip"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub180\ub7ec\uac00\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "subway station"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc9c0\ud558\ucca0\uc5ed"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "here"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc774\ub9ac"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "swimming"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc218\uc601"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to climb (up)",
+      "to go up"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc62c\ub77c\uac00\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to wear",
+      "put (shoes) on"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc2e0\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "eye"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub208"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "baseball"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc57c\uad6c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "company"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ud68c\uc0ac"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the road is blocked",
+      "traffic is jammed"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uae38\uc774 \ub9c9\ud788\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "early"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc77c\ucc0d"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to arrive"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub3c4\ucc29\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "work"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uc77c"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to be hard",
+      "be arduous"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ud798\ub4e4\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to go back",
+      "return"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub3cc\uc544\uac00\ub2e4"
+  },
+  {
+    "class": [
+      "phrase"
+    ],
+    "definitions": [
+      "May I ask you a question?"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub9d0\uc500 \uc880 \ubb3b\uaca0\uc2b5\ub2c8\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Korea University"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uace0\ub824\ub300\ud559\uad50"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to walk",
+      "to go on foot"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uac78\uc5b4\uac00\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Korean Cultural Research Center"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ubbfc\uc871\ubb38\ud654\uc5f0\uad6c\uc18c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "continually"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uacc4\uc18d"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "museum"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ubc15\ubb3c\uad00"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Tuesday"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ud654\uc694\uc77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "grapes"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ud3ec\ub3c4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) fat"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub6b1\ub6b1\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "soon"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\uace7"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "after"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ud6c4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "again"
+    ],
+    "section": {
+      "chapter": 14,
+      "part": "vocab"
+    },
+    "term": "\ub2e4\uc2dc"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to sleep late in the morning",
+      "to get up late"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\ub2a6\uc7a0\uc744 \uc790\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "suffix for persons name which ends in a consonant"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "-\uc774"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "drama actor"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uc5f0\uadf9\ubc30\uc6b0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "performance"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uacf5\uc5f0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "because"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "-\uae30\ub54c\ubb38\uc5d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "practice",
+      "drill",
+      "rehearse a play"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uc5f0\uc2b5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "connective sufix"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "-\ub294\ub370"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "from (some person)"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "-\uc5d0\uac8c\uc11c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "week"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uc8fc\uc77c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "while",
+      "during"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\ub3d9\uc548"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to get angry"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\ud654\uac00 \ub098\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "next"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\ub2e4\uc74c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "decide to do",
+      "make up one's mind to do",
+      "promise to do"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "-\uae30\ub85c \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "hastily"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uae09\ud788"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "promise"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uc57d\uc18d"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "place"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "text"
+    },
+    "term": "\uc7a5\uc18c"
+  },
+  {
+    "class": [
+      "adjective",
+      "verb"
+    ],
+    "definitions": [
+      "(be) late",
+      "to come late"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc9c0\uac01\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bell"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ubca8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "sound"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc18c\ub9ac"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to be heard",
+      "to be audible"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub4e4\ub9ac\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to call on",
+      "to call at",
+      "to visit"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ucc3e\uc544\uc624\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "suddenly"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uac11\uc790\uae30"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to bring"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uac00\uc838\uc624\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "from"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "-\ud55c\ud14c\uc11c"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) sad",
+      "sorrowful"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc2ac\ud504\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "an arm"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ud314"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to quit smoking"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub2f4\ubc30\ub97c \ub04a\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take off"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub0b4\ub9ac\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to run dash"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub6f0\uc5b4\uac00\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "just now",
+      "a moment ago"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uae08\ubc29"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "really"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc815\ub9d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "be lucky",
+      "have good luck"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc6b4\uc774 \uc88b\ub2e4"
+  },
+  {
+    "class": [
+      "noun",
+      "noun"
+    ],
+    "definitions": [
+      "a cartoon",
+      "a comic book"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub9cc\ud654"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Tangdaemun station"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub3d9\ub300\ubb38\uc5ed"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "park"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uacf5\uc6d0"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take a walk"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc0b0\ucc45(\uc744) \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "be satisfactory",
+      "be to one's liking"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub9c8\uc74c\uc5d0 \ub4e4\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to greet",
+      "say hello"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc778\uc0ac(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "various kinds of",
+      "all sorts of"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc5ec\ub7ec\uac00\uc9c0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "some day",
+      "one day"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\ub290 \ub0a0"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to fight",
+      "(have a) quarrel"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc2f8\uc6b0\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to separate"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ud5e4\uc5b4\uc9c0\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "be in low spirits",
+      "to have little energy"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ud798(\uc774) \uc5c6\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) glad",
+      "happy"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uae30\uc058\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "why"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc65c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "like that",
+      "so",
+      "in that way"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uadf8\ub807\uac8c"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to cry"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc6b8\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "face"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc5bc\uad74"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "heart (spiritual)",
+      "(the) mind"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub9c8\uc74c"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to be uncomfortable",
+      "feel ill"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ubd88\ud3b8\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to marry",
+      "to get married to"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uacb0\ud63c\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "not yet",
+      "still",
+      "even now"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc544\uc9c1\ub3c4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the last",
+      "the end"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\ub9c8\uc9c0\ub9c9"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Incheon"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc778\ucc9c"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to make a trip",
+      "to travel"
+    ],
+    "section": {
+      "chapter": 16,
+      "part": "vocab"
+    },
+    "term": "\uc5ec\ud589\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "connective suffix"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "-\uc544/\uc5b4\uc11c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the first day",
+      "the opening day",
+      "the premiere"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uccab\ub0a0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the past form of noun + \uc785\ub2c8\ub2e4"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "-\uc774\uc5c8\uc2b5\ub2c8\ub2e4/\uc600\uc2b5\ub2c8\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "intently"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uc794\ub729"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to spruce up"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uba4b\uc744 \ubd80\ub9ac\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to leave",
+      "to get out of"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ub098\uc11c\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Taehangno (street)"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ub300\ud559\ub85c"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a small theatre"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uc18c\uadf9\uc7a5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "fairly",
+      "quite",
+      "pretty"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ubae0"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) far",
+      "(be) distant"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uba40\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "before",
+      "prior to"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uc804"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "before doing (something)"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "-\uae30 \uc804\uc5d0"
+  },
+  {
+    "class": [
+      "noun",
+      "noun"
+    ],
+    "definitions": [
+      "a bundle",
+      "a bunch"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ub2e4\ubc1c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "program"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ud504\ub85c\uadf8\ub7a8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "while",
+      "as (ending for progressing action or the actions which take place at the sometime)"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\uba74\uc11c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "after (do something or happen something)"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "-\uace0 \ub098\uc11c"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to be over",
+      "to come to an end"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ub05d\ub098\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the stage"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\ubb34\ub300"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to be pleased"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "text"
+    },
+    "term": "\uae30\ubed0\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a diary"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc77c\uae30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "preparation of lessons"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc608\uc2b5"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "guest"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc190\ub2d8"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to know",
+      "to be familiar with"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc54c\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) long"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uae38\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to play"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub180\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) sweet",
+      "sugary"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub2ec\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to sell"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ud314\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to make"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub9cc\ub4e4\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to nap",
+      "to doze",
+      "to drowse"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc878\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to lift(up)",
+      "to hold",
+      "to take"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub4e4\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Anam-dong (a neighborhood in Seoul)"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc548\uc554\ub3d9"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "child",
+      "youngster"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc544\uc774"
+  },
+  {
+    "class": [
+      "noun",
+      "noun"
+    ],
+    "definitions": [
+      "a yard",
+      "a courtyard"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub9c8\ub2f9"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "how about"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\ub5bb\uc2b5\ub2c8\uae4c?"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to get a phone call"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc804\ud654\ub97c \ubc1b\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take a memo",
+      "take notes"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uba54\ubaa8(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "all"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to make money"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub3c8\uc744 \ubc8c\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a company employee"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ud68c\uc0ac\uc6d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "day time"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub0ae"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "dinner"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc800\ub141(\ubc25)"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "dictionary"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc0ac\uc804"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "just",
+      "exactly"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ubc14\ub85c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "dormitory"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uae30\uc219\uc0ac"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "sugar"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uc124\ud0d5"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to put in"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub123\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "singer"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\uac00\uc218"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to boil"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ub053\uc774\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "alone",
+      "by oneself"
+    ],
+    "section": {
+      "chapter": 17,
+      "part": "vocab"
+    },
+    "term": "\ud63c\uc790"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to draw"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uadf8\ub9ac\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the action which",
+      "the thing which"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "-\ub294 \uac83"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "weekend"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uc8fc\ub9d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the country",
+      "rural area"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uc2dc\uace8"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "scenery",
+      "a landscape"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ud48d\uacbd"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the outskirts",
+      "the suberbs"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uad50\uc678"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Seoul Station"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uc11c\uc6b8\uc5ed"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "train"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uae30\ucc28"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "window"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ucc3d"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "noun modifier ending"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\u3134"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to shake"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ud754\ub4e4\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) blue"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ud478\ub974\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the sky"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ud558\ub298"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) clear"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ub9d1\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "air"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uacf5\uae30"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) refreshing",
+      "fresh"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uc2dc\uc6d0\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "the wind"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ubc14\ub78c"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) crisp",
+      "invigorating"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uc0c1\ucf8c\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a field"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ub4e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "noun modifier ending"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "-\ub294"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to begin to"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "-\uae30 \uc2dc\uc791\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "farmer"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ub18d\ubd80"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "cow",
+      "ox"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\uc18c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "if (conditional ending)"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\uba74"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "again"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "text"
+    },
+    "term": "\ub610"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "novel"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc18c\uc124"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to sing a song",
+      "to sing"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub178\ub798(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) easy"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc27d\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) hot"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub728\uac81\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) cold"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ucc28\uac11\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) near"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uac00\uae5d\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) heavy"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ubb34\uac81\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) light"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uac00\ubccd\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) hot",
+      "(be) spicy"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub9f5\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) bland"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc2f1\uac81\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to help"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub3d5\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) prety"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uacf1\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "water"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ubb3c"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to dislike"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc2eb\uc5b4\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "whenever",
+      "always"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc5b8\uc81c\ub098"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "south"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub0a8\uc871"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to bloom (flowers)"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uacf7\uc774 \ud53c\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "window"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ucc3d\ubb38"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to open"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc5f4\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "especially"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ud2b9\ud788"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) cute",
+      "(be) charming"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uadc0\uc5fd\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to make a person do an errand"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc2ec\ubd80\ub984\uc744 \uc2dc\ud0a4\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) dirty"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub354\ub7fd\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to move",
+      "to change one's residence"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc774\uc0ac\uac00\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "bakery"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ube75\uc9d1"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "a fireworks display"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ubd88\uaf43\ub180\uc774"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "salt"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc18c\uae08"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Kimchi"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uae40\uce58"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "how"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\ub5bb\uac8c"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to spend one's time",
+      "to get along"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc9c0\ub0b4\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Kyeongbok Palace"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uacbd\ubcf5\uad81"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to close"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ub2eb\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "flaw",
+      "speck",
+      "crack"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ud648"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) dangerous"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\uc704\ud5d8\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to push"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ubc00\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "door"
+    ],
+    "section": {
+      "chapter": 18,
+      "part": "vocab"
+    },
+    "term": "\ubb38"
+  }
+]
