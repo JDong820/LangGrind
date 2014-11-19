@@ -20,9 +20,9 @@ data can be found in data/
 
 Exercises
 ---------
-* Vocabulary
-* Verb conjugation
-* Sentance constructions
+* Vocabulary (in development)
+* Verb conjugation (N/A)
+* Sentance constructions (N/A)
 
 
 Language Support
@@ -102,5 +102,5 @@ txt to json format:
      .
      .
      .
-   ]
+    ]
 

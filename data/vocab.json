@@ -1057,22 +1057,6 @@
       }
     }
   },
-  "\uacf7\uc774 \ud53c\ub2e4": {
-    "data": {
-      "definitions": [
-        [
-          "to bloom (flowers)"
-        ]
-      ],
-      "metadata": {
-        "chapter": 18,
-        "classes": [
-          "verb"
-        ],
-        "section": "vocab"
-      }
-    }
-  },
   "\uacfc\uc77c": {
     "data": {
       "definitions": [
@@ -1082,6 +1066,22 @@
       ],
       "metadata": {
         "chapter": 8,
+        "classes": [],
+        "section": "text"
+      }
+    }
+  },
+  "\uad18": {
+    "data": {
+      "definitions": [
+        [
+          "fairly",
+          "quite",
+          "pretty"
+        ]
+      ],
+      "metadata": {
+        "chapter": 17,
         "classes": [],
         "section": "text"
       }
@@ -1584,6 +1584,22 @@
         "chapter": 9,
         "classes": [
           "adjective"
+        ],
+        "section": "vocab"
+      }
+    }
+  },
+  "\uaf43\uc774 \ud53c\ub2e4": {
+    "data": {
+      "definitions": [
+        [
+          "to bloom (flowers)"
+        ]
+      ],
+      "metadata": {
+        "chapter": 18,
+        "classes": [
+          "verb"
         ],
         "section": "vocab"
       }
@@ -3088,22 +3104,6 @@
       }
     }
   },
-  "\ubae0": {
-    "data": {
-      "definitions": [
-        [
-          "fairly",
-          "quite",
-          "pretty"
-        ]
-      ],
-      "metadata": {
-        "chapter": 17,
-        "classes": [],
-        "section": "text"
-      }
-    }
-  },
   "\ubb34\uac81\ub2e4": {
     "data": {
       "definitions": [
@@ -3450,7 +3450,7 @@
     "data": {
       "definitions": [
         [
-          "\ubc84\uc2a4"
+          "bus"
         ]
       ],
       "metadata": {
@@ -4530,22 +4530,6 @@
       }
     }
   },
-  "\uc544\ub155\ud558\uc138\uc694": {
-    "data": {
-      "definitions": [
-        [
-          "How are you?"
-        ]
-      ],
-      "metadata": {
-        "chapter": 9,
-        "classes": [
-          "phrase"
-        ],
-        "section": "text"
-      }
-    }
-  },
   "\uc544\ubc84\uc9c0": {
     "data": {
       "definitions": [
@@ -4638,7 +4622,7 @@
     "data": {
       "definitions": [
         [
-          "to haev a pain",
+          "to have a pain",
           "(be) sick"
         ]
       ],
@@ -4663,6 +4647,22 @@
         "chapter": 8,
         "classes": [],
         "section": "vocab"
+      }
+    }
+  },
+  "\uc548\ub155\ud558\uc138\uc694": {
+    "data": {
+      "definitions": [
+        [
+          "How are you?"
+        ]
+      ],
+      "metadata": {
+        "chapter": 9,
+        "classes": [
+          "phrase"
+        ],
+        "section": "text"
       }
     }
   },
@@ -5299,7 +5299,7 @@
     "data": {
       "definitions": [
         [
-          "(in ) these days",
+          "(in) these days",
           "nowadays"
         ]
       ],
