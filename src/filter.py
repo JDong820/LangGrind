@@ -27,7 +27,7 @@ def filter_ou():
                 break
     return results
 
-def vprint(key, data):
+def v_out(key, data):
     """Pretty print for vocab."""
     data = data['data']
     definitions = data['definitions']
@@ -41,14 +41,25 @@ def vprint(key, data):
         print(definitions)
         exit(0)
 
-    print(("{key}: {definitions}\t"
-           "(ch. {chapter})").format(key=key,
-                                       chapter=chapter,
-                                       definitions=definitions))
+    return "{key}: {definitions}".format(key=key,
+                                         definitions=definitions).ljust(64) +\
+           "\t(ch. {chapter})".format(chapter=chapter)
 
 if __name__ == "__main__":
     items = list(filter_ou().items())
+    output = ""
     for key, data in sorted(items,
-            key=lambda _: _[1]['data']['metadata']['chapter']+
+            key=lambda _: _[1]['data']['metadata']['chapter'] +\
                           (0.5 if _[1]['data']['metadata']['section'] == "aux" else 0)):
-        vprint(key, data)
+        output += v_out(key, data) + '\n'
+    with open("../output/spellings_ou.txt", 'w') as f_out:
+        f_out.write(output)
+
+    items = list(filter_ae().items())
+    output = ""
+    for key, data in sorted(items,
+            key=lambda _: _[1]['data']['metadata']['chapter'] +\
+                          (0.5 if _[1]['data']['metadata']['section'] == "aux" else 0)):
+        output += v_out(key, data) + '\n'
+    with open("../output/spellings_ae.txt", 'w') as f_out:
+        f_out.write(output)

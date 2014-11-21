@@ -62,7 +62,7 @@ Chapter 9 - main text
     -이다; to be (copula)
     독일; Germany
     -에서; from
-    -았습니다/었습니다/였습니다; the past for of declarative sentance ending -ㅂ니다/습니다
+    -았습니다/었습니다/였습니다; the past for of declarative sentence ending -ㅂ니다/습니다
     -의; possessive particle
     고향; one's native place, hometown
     함부르크; Hamburg
@@ -106,7 +106,7 @@ Chapter 9 - aux vocab
     춥다; (be, feel) cold
     버스; bus
     타다; to take a ride in (a car)
-    불고기; bulgogi
+    불고기; Bulgogi
     작년; last year
     집; house, home
     그저께; the day before yesterday
@@ -190,7 +190,7 @@ Chapter 12 - aux vocab
     내; my (possessive form of I)
     그러나; but
     바다; the sea, the ocean
-    담배를 피우다; to smake
+    담배를 피우다; to smoke
     중국사람; Chinese person
     토요일; Saturday
     운동화; sports shoes
@@ -482,7 +482,7 @@ Chapter 18 - aux vocab
     맵다; (be) hot, (be) spicy
     싱겁다; (be) bland
     돕다; to help
-    곱다; (be) prety
+    곱다; (be) pretty
     물; water
     싫어하다; to dislike
     언제나; whenever, always
@@ -507,3 +507,59 @@ Chapter 18 - aux vocab
     위험하다; (be) dangerous
     밀다; to push
     문; door
+
+Chapter 19 - main text
+    사랑하다; to love
+    -게 되다; to begin to do, to come to do (auxiliary verb)
+    -(으)ㄹ; imperfect tense adnominal ending
+    같다; (be) the same
+    과; department
+    선배; senior, superior, elder
+    몇번; several times
+    -(으)ㄴ 적이 있다/없다; to have ever happened/
+    그들; they
+    명랑하다; (be) bright, (be) cheerful
+    적극적; (be) positive, (be) active
+    성격; character, personality
+    자상하다; (be) thoughtful, (be) meticulous
+    어울리다; to be becoming, suitable, to match well to suit
+    쌍; pair
+    의미있다; to have meaning, to be meaningful
+    나무기러기; wild goose made of wood
+    축하하다; to congratulate
+    시; poem
+    -(으)려고 하다; to intend
+
+Chapter 19 - aux vocab
+    코트; coat
+    강; river
+    깊다; (be) deep
+    운동장; a playground, an athletic field
+    넓다; (be) wide, (be) broad
+    종로; Chongno
+    삼계탕; ginseng chicken broth, Samgyetang
+    이해(를) 하다; to understand
+    사진을 찍다; to take picture
+    국수; noodles, soup noodles
+    어둡다; (be) dark
+    변하다; to change
+    축구; soccer
+    어느새; so soon, unnoticed
+    시끄럽다; (be) noisy
+    동창; a fellow student, an alumnus
+    손(을) 들다; to raise one's hand
+    파티; party
+    갔다오다; to come back
+    설악산; Seorak mountain
+    샴푸; shampoo
+    이태원; Itaewon
+    수필; essay
+    냉면; cold buckwheat noodles, naengmyon
+    고생하다; to have a hard time
+    친하다; (be) intimate, (be) close
+    부럽다; (be) enviable, to arouse envy
+    유럽; Europe
+    외국; foreign country
+    운동; exercise, sports
+    착하다; (be) nice, (be) good-natured
+    몸이 약하다; to be weak in body, to be physically weak

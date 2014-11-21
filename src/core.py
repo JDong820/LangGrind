@@ -6,7 +6,7 @@ import json
 import time
 #import requests
 
-SAVEFILE = "KDATA"
+SAVEFILE = "../data/vocab.json"
 
 def word_merge(old_data, new_data):
     """Returns a merged version of the old and new data."""
@@ -171,7 +171,6 @@ def do_test(test_function):
         print("MISSED: {0}".format(miss))
 
     print("SCORE: {0}%".format(int(score*100/max_score)))
-
 
 if __name__ == "__main__":
     update_vocab()

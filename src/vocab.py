@@ -3,7 +3,10 @@ import json
 import parse_raw
 
 SAVEPATH = "../data/"
+OUTPATH = "../output/"
 SAVEFILE = "vocab.json"
+INFILE = "raw_terms.txt"
+DATAFILE = "raw.json"
 
 def fetch_json(filepath=SAVEPATH+SAVEFILE):
     """Fetch data from filepath, if it exists."""
@@ -21,7 +24,12 @@ def save_json(data, filepath=SAVEPATH+SAVEFILE):
                               separators=(',', ': ')))
 
 def merge_definitions(arr1, arr2):
-    return arr1 + arr2
+    """Merge two definitions, the only criterion being strict equivalence."""
+    new_definitions = arr1
+    for _ in arr2:
+        if _ not in new_definitions:
+            new_definitions.append(_)
+    return new_definitions
 
 def merge_entry(new_data, vocabulary):
     """Merges new_data into vocabulary."""
@@ -40,7 +48,7 @@ def merge_entry(new_data, vocabulary):
             # Update vocabulary
             vocabulary[key] = old_entry
 
-def vocab_to_json(file_in="../data/RAW.txt", file_out="../data/raw.json"):
+def vocab_to_json(file_in=SAVEPATH+INFILE, file_out=SAVEPATH+DATAFILE):
     """Parse raw data into json."""
     save_json(parse_raw.parse_file(file_in), filepath=file_out)
 
@@ -48,7 +56,6 @@ def merge_from_array(file_in, vocab_out=SAVEPATH+SAVEFILE):
     """Merge elements from a JSON array at file_in into a vocabulary at
     file_out.
     """
-    from pprint import pprint
     vocabulary = fetch_json(vocab_out)
     print("Merging from {}.".format(file_in))
     for entry in fetch_json(file_in):
@@ -74,4 +81,4 @@ def merge_from_array(file_in, vocab_out=SAVEPATH+SAVEFILE):
 
 if __name__ == "__main__":
     vocab_to_json()
-    merge_from_array("../data/raw.json")
+    merge_from_array(SAVEPATH+DATAFILE, OUTPATH+SAVEFILE)

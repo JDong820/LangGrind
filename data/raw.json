@@ -678,7 +678,7 @@
   {
     "class": [],
     "definitions": [
-      "the past for of declarative sentance ending -\u3142\ub2c8\ub2e4/\uc2b5\ub2c8\ub2e4"
+      "the past for of declarative sentence ending -\u3142\ub2c8\ub2e4/\uc2b5\ub2c8\ub2e4"
     ],
     "section": {
       "chapter": 9,
@@ -1195,9 +1195,11 @@
     "term": "\ud0c0\ub2e4"
   },
   {
-    "class": [],
+    "class": [
+      "noun"
+    ],
     "definitions": [
-      "bulgogi"
+      "Bulgogi"
     ],
     "section": {
       "chapter": 9,
@@ -2097,7 +2099,7 @@
       "verb"
     ],
     "definitions": [
-      "to smake"
+      "to smoke"
     ],
     "section": {
       "chapter": 12,
@@ -5468,7 +5470,7 @@
       "adjective"
     ],
     "definitions": [
-      "(be) prety"
+      "(be) pretty"
     ],
     "section": {
       "chapter": 18,
@@ -5775,5 +5777,670 @@
       "part": "vocab"
     },
     "term": "\ubb38"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to love"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc0ac\ub791\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to begin to do",
+      "to come to do (auxiliary verb)"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "-\uac8c \ub418\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "imperfect tense adnominal ending"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\u3139"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) the same"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uac19\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "department"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uacfc"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "senior",
+      "superior",
+      "elder"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc120\ubc30"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "several times"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uba87\ubc88"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to have ever happened/"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\u3134 \uc801\uc774 \uc788\ub2e4/\uc5c6\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "they"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uadf8\ub4e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) bright",
+      "(be) cheerful"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uba85\ub791\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) positive",
+      "(be) active"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc801\uadf9\uc801"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "character",
+      "personality"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc131\uaca9"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) thoughtful",
+      "(be) meticulous"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc790\uc0c1\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to be becoming",
+      "suitable",
+      "to match well to suit"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc5b4\uc6b8\ub9ac\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "pair"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc30d"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to have meaning",
+      "to be meaningful"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc758\ubbf8\uc788\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "wild goose made of wood"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\ub098\ubb34\uae30\ub7ec\uae30"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to congratulate"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\ucd95\ud558\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "poem"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "\uc2dc"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to intend"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "text"
+    },
+    "term": "-(\uc73c)\ub824\uace0 \ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "coat"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ucf54\ud2b8"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "river"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uac15"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) deep"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uae4a\ub2e4"
+  },
+  {
+    "class": [
+      "noun",
+      "noun"
+    ],
+    "definitions": [
+      "a playground",
+      "an athletic field"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc6b4\ub3d9\uc7a5"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) wide",
+      "(be) broad"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ub113\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Chongno"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc885\ub85c"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "ginseng chicken broth",
+      "Samgyetang"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc0bc\uacc4\ud0d5"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to understand"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc774\ud574(\ub97c) \ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to take picture"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc0ac\uc9c4\uc744 \ucc0d\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "noodles",
+      "soup noodles"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uad6d\uc218"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) dark"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\ub461\ub2e4"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to change"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ubcc0\ud558\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "soccer"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ucd95\uad6c"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "so soon",
+      "unnoticed"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc5b4\ub290\uc0c8"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) noisy"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc2dc\ub044\ub7fd\ub2e4"
+  },
+  {
+    "class": [
+      "noun",
+      "noun"
+    ],
+    "definitions": [
+      "a fellow student",
+      "an alumnus"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ub3d9\ucc3d"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to raise one's hand"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc190(\uc744) \ub4e4\ub2e4"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "party"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ud30c\ud2f0"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to come back"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uac14\ub2e4\uc624\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Seorak mountain"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc124\uc545\uc0b0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "shampoo"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc0f4\ud478"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Itaewon"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc774\ud0dc\uc6d0"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "essay"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc218\ud544"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "cold buckwheat noodles",
+      "naengmyon"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ub0c9\uba74"
+  },
+  {
+    "class": [
+      "verb"
+    ],
+    "definitions": [
+      "to have a hard time"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uace0\uc0dd\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) intimate",
+      "(be) close"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uce5c\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "adjective",
+      "verb"
+    ],
+    "definitions": [
+      "(be) enviable",
+      "to arouse envy"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ubd80\ub7fd\ub2e4"
+  },
+  {
+    "class": [
+      "noun"
+    ],
+    "definitions": [
+      "Europe"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc720\ub7fd"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "foreign country"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc678\uad6d"
+  },
+  {
+    "class": [],
+    "definitions": [
+      "exercise",
+      "sports"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\uc6b4\ub3d9"
+  },
+  {
+    "class": [
+      "adjective"
+    ],
+    "definitions": [
+      "(be) nice",
+      "(be) good-natured"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ucc29\ud558\ub2e4"
+  },
+  {
+    "class": [
+      "verb",
+      "verb"
+    ],
+    "definitions": [
+      "to be weak in body",
+      "to be physically weak"
+    ],
+    "section": {
+      "chapter": 19,
+      "part": "vocab"
+    },
+    "term": "\ubab8\uc774 \uc57d\ud558\ub2e4"
   }
 ]
