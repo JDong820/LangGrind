@@ -144,23 +144,15 @@ def test_kor(term_filter=lambda a, b: True):
             misses.append(term)
     return misses, score, max_score
 
-#if __name__ == "__main__":
-#    mode = int(input("Select mode (1, 2, 3): "))
-#    if mode == 1:
-#        update_vocab()
-#    else:
-#        test_kor(user=input("username="),
-#                 word_filter=lambda term, data:
-#                             data['metadata']['chapter'] == '-8')
-
 def do_test(test_function):
     """Basic testing wrapper"""
     # Generate useful feedback
     start_time = time.time()
 
     misses, score, max_score =\
-            test_function(term_filter=lambda vocab, data:
-                (vocab[0] != "-") and (data['metadata']['chapter'] == "17"))
+        test_function(term_filter=lambda vocab, data:
+                      (vocab[0] != "-") and\
+                      (data['metadata']['chapter'] == 18))
 
     time_spent = int(time.time() - start_time)
     assert max_score != 0

@@ -399,7 +399,7 @@ Chapter 17 - main text
     나서다; to leave, to get out of
     대학로; Taehangno (street)
     소극장; a small theatre
-    괘; fairly, quite, pretty
+    꽤; fairly, quite, pretty
     멀다; (be) far, (be) distant
     전; before, prior to
     -기 전에; before doing (something)
@@ -486,7 +486,7 @@ Chapter 18 - aux vocab
     물; water
     싫어하다; to dislike
     언제나; whenever, always
-    남족; south
+    남쪽; south
     꽃이 피다; to bloom (flowers)
     창문; window
     열다; to open
