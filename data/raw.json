@@ -1295,7 +1295,7 @@
       "department store"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "text"
     },
     "term": "\ubc31\ud654\uc810"
@@ -1308,7 +1308,7 @@
       "to go to (destination)"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "text"
     },
     "term": "-\uc5d0 \uac00\ub2e4"
@@ -1319,7 +1319,7 @@
       "in (locative particle)"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "text"
     },
     "term": "-\uc5d0\uc11c"
@@ -1330,7 +1330,7 @@
       "and"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "text"
     },
     "term": "\uadf8\ub9ac\uace0"
@@ -1341,7 +1341,7 @@
       "who"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "text"
     },
     "term": "\ub204\uad6c"
@@ -1352,7 +1352,7 @@
       "at (time particle)"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "text"
     },
     "term": "-\uc5d0"
@@ -1363,7 +1363,7 @@
       "bank"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc740\ud589"
@@ -1374,7 +1374,7 @@
       "post office"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc6b0\uccb4\uad6d"
@@ -1385,7 +1385,7 @@
       "market"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc2dc\uc7a5"
@@ -1396,7 +1396,7 @@
       "rest room"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ud654\uc7a5\uc2e4"
@@ -1407,7 +1407,7 @@
       "kitchen"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubd80\uc5cc"
@@ -1418,7 +1418,7 @@
       "wash"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc53b\ub2e4"
@@ -1429,7 +1429,7 @@
       "bath room"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubaa9\uc695\ud0d5"
@@ -1440,7 +1440,7 @@
       "hands"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc190"
@@ -1454,7 +1454,7 @@
       "sing"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ub178\ub798(\ub97c) \ubd80\ub974\ub2e4"
@@ -1468,7 +1468,7 @@
       "dance"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ucda4(\uc744) \ucd94\ub2e4"
@@ -1481,7 +1481,7 @@
       "to wash one's face"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc138\uc218(\ub97c) \ud558\ub2e4"
@@ -1494,7 +1494,7 @@
       "Korean language"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ud55c\uad6d\uc5b4"
@@ -1507,7 +1507,7 @@
       "to learn"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubc30\uc6b0\ub2e4"
@@ -1518,7 +1518,7 @@
       "who"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ub204\uac00"
@@ -1532,7 +1532,7 @@
       "seek for"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ucc3e\ub2e4"
@@ -1540,10 +1540,11 @@
   {
     "class": [],
     "definitions": [
-      "yesterday"
+      "the first",
+      "most"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc81c\uc77c"
@@ -1556,7 +1557,7 @@
       "to read"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc77d\ub2e4"
@@ -1567,7 +1568,7 @@
       "suffix for plural noun"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "-\ub4e4"
@@ -1578,7 +1579,7 @@
       "minute"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubd84"
@@ -1589,7 +1590,7 @@
       "half"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubc18"
@@ -1600,7 +1601,7 @@
       "mountain"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc0b0"
@@ -1611,7 +1612,7 @@
       "classwork"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc218\uc5c5"
@@ -1622,7 +1623,7 @@
       "hospital"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubcd1\uc6d0"
@@ -1633,7 +1634,7 @@
       "the day after tomorrow"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubaa8\ub808"
@@ -1644,7 +1645,7 @@
       "when"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc5b8\uc81c"
@@ -1656,7 +1657,7 @@
       "test"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc2dc\ud5d8"
@@ -1667,7 +1668,7 @@
       "elevator"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc5d8\ub808\ubca0\uc774\ud130"
@@ -1678,7 +1679,7 @@
       "embassy"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ub300\uc0ac\uad00"
@@ -1691,7 +1692,7 @@
       "to write"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc4f0\ub2e4"
@@ -1704,7 +1705,7 @@
       "to do homework"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc219\uc81c(\ub97c) \ud558\ub2e4"
@@ -1715,7 +1716,7 @@
       "breakfast"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc544\uce68\ubc25"
@@ -1728,7 +1729,7 @@
       "to send"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\ubcf4\ub0b4\ub2e4"
@@ -1739,7 +1740,7 @@
       "relative"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uce5c\ucc99"
@@ -1752,7 +1753,7 @@
       "to sightsee"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uad6c\uacbd(\uc744) \ud558\ub2e4"
@@ -1763,7 +1764,7 @@
       "afternoon"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc624\ud6c4"
@@ -1775,7 +1776,7 @@
       "liquor"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uc220"
@@ -1787,7 +1788,7 @@
       "first of all"
     ],
     "section": {
-      "chapter": 10,
+      "chapter": 11,
       "part": "vocab"
     },
     "term": "\uba3c\uc800"

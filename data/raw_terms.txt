@@ -115,7 +115,7 @@ Chapter 9 - aux vocab
     일본; Japan
     공항; airport
 
-Chapter 10 - main text
+Chapter 11 - main text
     백화점; department store
     -에 가다; to go to (destination)
     -에서; in (locative particle)
@@ -123,7 +123,7 @@ Chapter 10 - main text
     누구; who
     -에; at (time particle)
 
-Chapter 10 - aux vocab
+Chapter 11 - aux vocab
     은행; bank
     우체국; post office
     시장; market
@@ -139,7 +139,7 @@ Chapter 10 - aux vocab
     배우다; to learn
     누가; who
     찾다; to look for, seek for
-    제일; yesterday
+    제일; the first, most
     읽다; to read
     -들; suffix for plural noun
     분; minute
