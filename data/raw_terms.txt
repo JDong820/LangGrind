@@ -10,7 +10,7 @@ Chapter 8 - main text
     여자; woman
     두; two
     있다; to exist, to have
-    식당; dining table
+    식탁; dining table
     위; above, over
     그릇; bowl
     반찬; side dish (served with rice)
@@ -202,7 +202,7 @@ Chapter 12 - aux vocab
     선물; present, gift
     다른; different
     사진; photograph, picture
-    버스표; but token
+    버스표; bus token
     카메라; camera
     우표; (postage) stamp
     곰인형; a bear doll
@@ -516,7 +516,7 @@ Chapter 19 - main text
     과; department
     선배; senior, superior, elder
     몇번; several times
-    -(으)ㄴ 적이 있다/없다; to have ever happened/
+    -(으)ㄴ 적이 있다/없다; to have ever happened
     그들; they
     명랑하다; (be) bright, (be) cheerful
     적극적; (be) positive, (be) active

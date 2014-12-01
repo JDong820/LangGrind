@@ -17,7 +17,7 @@
     "data": {
       "definitions": [
         [
-          "to have ever happened/"
+          "to have ever happened"
         ]
       ],
       "metadata": {
@@ -3776,7 +3776,7 @@
     "data": {
       "definitions": [
         [
-          "but token"
+          "bus token"
         ]
       ],
       "metadata": {
@@ -4849,7 +4849,20 @@
       "definitions": [
         [
           "a restaurant"
+        ]
+      ],
+      "metadata": {
+        "chapter": 8,
+        "classes": [
+          "noun"
         ],
+        "section": "text"
+      }
+    }
+  },
+  "\uc2dd\ud0c1": {
+    "data": {
+      "definitions": [
         [
           "dining table"
         ]

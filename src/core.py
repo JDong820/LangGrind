@@ -152,7 +152,7 @@ def do_test(test_function):
     misses, score, max_score =\
         test_function(term_filter=lambda vocab, data:
                       (vocab[0] != "-") and\
-                      (data['metadata']['chapter'] <= 11))
+                      (data['metadata']['chapter'] <= 12))
 
     time_spent = int(time.time() - start_time)
     assert max_score != 0
