@@ -2917,22 +2917,6 @@
       }
     }
   },
-  "\ub9c8\uc548\ud558\ub2e4": {
-    "data": {
-      "definitions": [
-        [
-          "(be) sorry"
-        ]
-      ],
-      "metadata": {
-        "chapter": 14,
-        "classes": [
-          "adjective"
-        ],
-        "section": "text"
-      }
-    }
-  },
   "\ub9c8\uc74c": {
     "data": {
       "definitions": [
@@ -3502,6 +3486,22 @@
           "noun"
         ],
         "section": "vocab"
+      }
+    }
+  },
+  "\ubbf8\uc548\ud558\ub2e4": {
+    "data": {
+      "definitions": [
+        [
+          "(be) sorry"
+        ]
+      ],
+      "metadata": {
+        "chapter": 14,
+        "classes": [
+          "adjective"
+        ],
+        "section": "text"
       }
     }
   },
